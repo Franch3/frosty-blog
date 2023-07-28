@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<
+	
 	<title></title>
 </head>
 <body>
 
 	<?php
 	   $myEmailAddress = "handdavidrichardson@gmail.com";
-       $subject = "Question from FROSTY'S BLOG";
+       $subject = "contact from FROSTY'S BLOG";
 
        $name = $_POST['Name'];
        $email = $_POST['Email'];
